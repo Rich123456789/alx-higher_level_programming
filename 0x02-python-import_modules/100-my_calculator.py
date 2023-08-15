@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 if __name__ == "__main__":
-    """Print all functions from a file and handles basic operations"""
+    """Handles basic operations"""
     from calculator_1 import add, sub, mul, div 
     import sys
 
